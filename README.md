@@ -20,7 +20,7 @@
 | 08/24 | &#9745; | [프로그래머스 성격유형검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) |  
 | 09/03 | &#9745; |                  [DFS와 BFS](https://www.acmicpc.net/problem/1260)                   |
 | 09/05 | &#9745; |                     [분해합](https://www.acmicpc.net/problem/2231)                     |
-|       |         |                                                                                     |
+| 09/07 |    &#9745     |                                    [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)                                    |
 |       |         |                                                                                     |
 |       |         |                                                                                     |
 
