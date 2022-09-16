@@ -10,28 +10,26 @@ public class Solution_cache {
 
         if (cacheSize == 0) {
             answer = cities.length * 5;
-
             return answer;
         }
 
-        for (int i = 0; i < cities.length; i++) {
-            if (lru.size() < cacheSize) {
-                lru.add(cities[i].toLowerCase());
-                answer += 5;
-            } else {
-                if (lru.contains(cities[i].toLowerCase())) {
-                    lru.remove(cities[i].toLowerCase());
-                    lru.add(cities[i].toLowerCase());
-                    answer += 1;
-                } else {
-                    lru.removeFirst();
-                    lru.add(cities[i].toLowerCase());
-                    answer += 5;
+        for(int i=0;i< cities.length;i++){
+            String s = cities[i].toLowerCase();
+
+            if(lru.remove(s)){
+                answer+=1;
+                lru.add(s);
+            }
+            else{
+                answer+=5;
+                if(lru.size()>=cacheSize){
+                    lru.remove(0);
                 }
+                lru.add(s);
             }
 
-            System.out.println(lru);
         }
+
 
         return answer;
     }
