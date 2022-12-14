@@ -23,8 +23,8 @@
 | 09/07 | &#9745; |    [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)     |
 | 09/16 |   &#9745;     |        [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)        |
 | 09/18 |        |       [비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)       |
-|       |        |                                                                                     |
-
+| 12/14 |   &#9745;     |                [달팽이는 올라가고 싶다.](https://www.acmicpc.net/problem/2869)                |
+|   |   |   |
 
 
 [//]: # (&#9744; 체크 x )
