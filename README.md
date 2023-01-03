@@ -24,6 +24,7 @@
 |  09/18   |          |            [비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)            |
 |  12/14   | &#9745;  |                  [달팽이는 올라가고 싶다.](https://www.acmicpc.net/problem/2869)                  |
 | 23/01/02 | &#9745;  |                      [외판원 순회 2](https://www.acmicpc.net/problem/10971)                       |
+|  01/03   | &#9745;  |                         [상자넣기](https://www.acmicpc.net/problem/1965)                          |
 
 [//]: # "☐ 체크 x "
 [//]: # "☑ 체크 o"
