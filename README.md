@@ -27,7 +27,7 @@
 |  01/03   | &#9745;  |                         [상자넣기](https://www.acmicpc.net/problem/1965)                          |
 |  01/03   | &#9745;  |                         [상자넣기](https://www.acmicpc.net/problem/1965)                          |
 |  01/04   | &#9745;  |                [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)                |
-|          |          |                                               []()                                                |
+|  01/05   | &#9745;  |                           [센서](https://www.acmicpc.net/problem/2212)                            |
 |          |          |                                               []()                                                |
 |          |          |                                               []()                                                |
 
