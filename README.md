@@ -29,6 +29,7 @@
 |  01/04   | &#9745;  |                [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)                |
 |  01/05   | &#9745;  |                           [센서](https://www.acmicpc.net/problem/2212)                            |
 |  01/09   | &#9745;  | [토너먼트](https://www.acmicpc.net/problem/1057), [도서관](https://www.acmicpc.net/problem/1461)  |
+|  01/10   | &#9745;  |                         [미로탐색](https://www.acmicpc.net/problem/2178)                          |
 |          |          |                                               []()                                                |
 
 [//]: # "☐ 체크 x "
