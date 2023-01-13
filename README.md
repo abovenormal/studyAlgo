@@ -2,7 +2,7 @@
 
     to improve algorithm skills, studying at BOJ & Programmers
 
-<div style="text-align: center;">
+<center>
 ✨Tech Stack✨
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -10,9 +10,11 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=abovenormal5023)](https://solved.ac/abovenormal5023)
 
-</div>
+</center>
 
 ## To-do
+
+---
 
 |   날짜   | 완료여부 |                                             문제 링크                                             |
 | :------: | :------: | :-----------------------------------------------------------------------------------------------: |
