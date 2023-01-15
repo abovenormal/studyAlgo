@@ -36,6 +36,7 @@
 |  01/12   | &#9745;  |                         [바이러스](https://www.acmicpc.net/problem/2606)                          |
 |  01/13   | &#9745;  |                      [토마토(여러층)](https://www.acmicpc.net/problem/7569)                       |
 |  01/14   | &#9745;  |                         [시험감독](https://www.acmicpc.net/problem/13458)                         |
+|  01/15   | &#9745;  |                            [새](https://www.acmicpc.net/problem/1568)                             |
 
 <!--  |     |                            &#9745;                    | []() | -->
 
