@@ -37,6 +37,7 @@
 |  01/13   | &#9745;  |                      [토마토(여러층)](https://www.acmicpc.net/problem/7569)                       |
 |  01/14   | &#9745;  |                         [시험감독](https://www.acmicpc.net/problem/13458)                         |
 |  01/15   | &#9745;  |                            [새](https://www.acmicpc.net/problem/1568)                             |
+|  01/16   | &#9745;  |                        [로봇청소기](https://www.acmicpc.net/problem/14503)                        |
 
 <!--  |     |                            &#9745;                    | []() | -->
 
