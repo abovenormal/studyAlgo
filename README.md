@@ -27,7 +27,6 @@
 |  12/14   | &#9745;  |                  [달팽이는 올라가고 싶다.](https://www.acmicpc.net/problem/2869)                  |
 | 23/01/02 | &#9745;  |                      [외판원 순회 2](https://www.acmicpc.net/problem/10971)                       |
 |  01/03   | &#9745;  |                         [상자넣기](https://www.acmicpc.net/problem/1965)                          |
-|  01/03   | &#9745;  |                         [상자넣기](https://www.acmicpc.net/problem/1965)                          |
 |  01/04   | &#9745;  |                [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)                |
 |  01/05   | &#9745;  |                           [센서](https://www.acmicpc.net/problem/2212)                            |
 |  01/09   | &#9745;  | [토너먼트](https://www.acmicpc.net/problem/1057), [도서관](https://www.acmicpc.net/problem/1461)  |
@@ -38,6 +37,7 @@
 |  01/14   | &#9745;  |                         [시험감독](https://www.acmicpc.net/problem/13458)                         |
 |  01/15   | &#9745;  |                            [새](https://www.acmicpc.net/problem/1568)                             |
 |  01/16   | &#9745;  |                        [로봇청소기](https://www.acmicpc.net/problem/14503)                        |
+|  01/17   | &#9745;  |                       [문자열 집합](https://www.acmicpc.net/problem/14425)                        |
 
 <!--  |     |                            &#9745;                    | []() | -->
 
