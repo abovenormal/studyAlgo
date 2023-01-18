@@ -38,8 +38,9 @@
 |  01/15   | &#9745;  |                            [새](https://www.acmicpc.net/problem/1568)                             |
 |  01/16   | &#9745;  |                        [로봇청소기](https://www.acmicpc.net/problem/14503)                        |
 |  01/17   | &#9745;  |                       [문자열 집합](https://www.acmicpc.net/problem/14425)                        |
+|  01/18   | &#9745;  |                      [단어 뒤집기 2](https://www.acmicpc.net/problem/17413)                       |
 
-<!--  |     |                            &#9745;                    | []() | -->
+   <!--   |          |                                              &#9745;                                              | []() | -->
 
 [//]: # "☐ 체크 x "
 [//]: # "☑ 체크 o"
