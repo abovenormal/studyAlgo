@@ -40,6 +40,7 @@
 |  01/17   | &#9745;  |                       [문자열 집합](https://www.acmicpc.net/problem/14425)                        |
 |  01/18   | &#9745;  |                      [단어 뒤집기 2](https://www.acmicpc.net/problem/17413)                       |
 |  01/19   | &#9745;  |  [동전 1](https://www.acmicpc.net/problem/2293), [동전 2](https://www.acmicpc.net/problem/2294)   |
+|  02/02   | &#9745;  |                           [빙산](https://www.acmicpc.net/problem/2573)                            |
 
 <!--   |          |                            &#9745;                         | []() | -->
 
