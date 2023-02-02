@@ -40,11 +40,8 @@
 |  01/17   | &#9745;  |                       [문자열 집합](https://www.acmicpc.net/problem/14425)                        |
 |  01/18   | &#9745;  |                      [단어 뒤집기 2](https://www.acmicpc.net/problem/17413)                       |
 |  01/19   | &#9745;  |  [동전 1](https://www.acmicpc.net/problem/2293), [동전 2](https://www.acmicpc.net/problem/2294)   |
-<<<<<<< HEAD
+|  01/20   | &#9745;  |                      [가장 많은 글자](https://www.acmicpc.net/problem/1371)                       |
 |  02/02   | &#9745;  |                           [빙산](https://www.acmicpc.net/problem/2573)                            |
-=======
-|    01/20      |                            &#9745;                         | [가장 많은 글자](https://www.acmicpc.net/problem/1371) |
->>>>>>> e56625891fcd2ba1242a82d0f934929d5f79a610
 
 <!--   |          |                            &#9745;                         | []() | -->
 
