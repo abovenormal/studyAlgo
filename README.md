@@ -42,8 +42,9 @@
 |  01/20   | &#9745;  |  BaekJoon   |                      [가장 많은 글자](https://www.acmicpc.net/problem/1371)                      |
 |  02/02   | &#9745;  |  BaekJoon   |                           [빙산](https://www.acmicpc.net/problem/2573)                           |
 |  02/03   | &#9745;  | Programmers |        [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924)        |
+|  02/07   | &#9745;  | Programmers |             [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)             |
 
-<!--   |          |  |                          &#9745;                         | []() | -->
+<!--   |          |                            &#9745;                        | | []() | -->
 
 [//]: # "☐ 체크 x "
 [//]: # "☑ 체크 o"
