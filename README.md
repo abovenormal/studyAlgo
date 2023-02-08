@@ -43,8 +43,7 @@
 |  02/02   | &#9745;  |  BaekJoon   |                           [빙산](https://www.acmicpc.net/problem/2573)                           |
 |  02/03   | &#9745;  | Programmers |        [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924)        |
 |  02/07   | &#9745;  | Programmers |             [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)             |
-
-<!--   |          |                            &#9745;                        | | []() | -->
+|  02/08   | &#9745;  | Programmers |           [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)           |
 
 [//]: # "☐ 체크 x "
 [//]: # "☑ 체크 o"
