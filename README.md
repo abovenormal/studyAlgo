@@ -45,6 +45,8 @@
 |  02/07   | &#9745;  | Programmers |             [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)             |
 |  02/08   | &#9745;  | Programmers | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) 2가지방법(bfs,dfs)  |
 |  02/09   | &#9745;  | Programmers |         [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)          |
+|  02/13   | &#9745;  | Programmers |          [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)           |
+|  02/14   | &#9745;  | Programmers |         [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)          |
 
 [//]: # "☐ 체크 x "
 [//]: # "☑ 체크 o"
