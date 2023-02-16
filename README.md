@@ -47,6 +47,8 @@
 |  02/09   | &#9745;  | Programmers |         [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)          |
 |  02/13   | &#9745;  | Programmers |          [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)           |
 |  02/14   | &#9745;  | Programmers |         [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)          |
+|  02/15   | &#9745;  |  BaekJoon   |                          [빗물](https://www.acmicpc.net/problem/14500)                           |
+|  02/16   | &#9745;  |  BaekJoon   |                       [테트로미노](https://www.acmicpc.net/problem/14500)                        |
 
 [//]: # "☐ 체크 x "
 [//]: # "☑ 체크 o"
