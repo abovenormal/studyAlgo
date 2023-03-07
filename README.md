@@ -52,6 +52,7 @@
 |  02/21   | &#9745;  |  BaekJoon   | [팩토리얼](https://www.acmicpc.net/problem/10872), [피보나치 수 5](https://www.acmicpc.net/problem/10870), [알고리즘 수업 - 병합 정렬 1](https://www.acmicpc.net/problem/24060) |
 |  02/22   | &#9745;  | Programmers |     [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994), [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)     |
 |  02/28   | &#9745;  |  BaekJoon   |                                                                 [오큰수](https://www.acmicpc.net/problem/17298)                                                                 |
+|  03/07   | &#9745;  |  BaekJoon   |                                                               [1로 만들기](https://www.acmicpc.net/problem/1463)                                                                |
 
 [//]: # "☐ 체크 x "
 [//]: # "☑ 체크 o"
