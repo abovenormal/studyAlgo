@@ -54,6 +54,7 @@
 |  02/28   | &#9745;  |  BaekJoon   |                                                                 [오큰수](https://www.acmicpc.net/problem/17298)                                                                 |
 |  03/07   | &#9745;  |  BaekJoon   |                                                               [1로 만들기](https://www.acmicpc.net/problem/1463)                                                                |
 |  03/15   | &#9745;  | Programmers |                                                  [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)                                                   |
+|  03/17   | &#9745;  | Programmers |                                                [명예의전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)                                                |
 
 [//]: # "☐ 체크 x "
 [//]: # "☑ 체크 o"
