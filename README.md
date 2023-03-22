@@ -56,6 +56,7 @@
 |  03/15   | &#9745;  | Programmers |                                                  [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)                                                   |
 |  03/17   | &#9745;  | Programmers |                                                [명예의전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)                                                |
 |  03/20   | &#9745;  |  BaekJoon   |                                                               [대칭 사각형](https://www.acmicpc.net/problem/1269)                                                               |
+|  03/22   | &#9745;  |  BaekJoon   |                                                             [모노디지털 표현](https://www.acmicpc.net/problem/2287)                                                             |
 
 [//]: # "☐ 체크 x "
 [//]: # "☑ 체크 o"
