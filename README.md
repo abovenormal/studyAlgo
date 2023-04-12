@@ -59,6 +59,7 @@
 |  03/22   | &#9745;  |  BaekJoon   |                                                                       [모노디지털 표현](https://www.acmicpc.net/problem/2287)                                                                       |
 |  03/29   | &#9745;  | Programmers | [개인정보 수집 유효기간](http://school.programmers.co.kr/learn/courses/30/lessons/150370/solution_groups?language=java), [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) |
 |  03/30   | &#9745;  |  BaekJoon   |                                                                       [회의실 배정 3](https://www.acmicpc.net/problem/19622)                                                                        |
+|  04/12   | &#9745;  | Programmers |                                                      [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)                                                      |
 
 [//]: # "☐ 체크 x "
 [//]: # "☑ 체크 o"
