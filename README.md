@@ -61,6 +61,7 @@
 |  03/30   | &#9745;  |  BaekJoon   |                                                                       [회의실 배정 3](https://www.acmicpc.net/problem/19622)                                                                        |
 |  04/12   | &#9745;  | Programmers |                                                      [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)                                                      |
 |  05/05   | &#9745;  | Programmers |                                                           [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)                                                           |
+|  05/16   | &#9745;  | Programmers |                                                        [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)                                                        |
 
 [//]: # "☐ 체크 x "
 [//]: # "☑ 체크 o"
