@@ -63,6 +63,7 @@
 |  05/05   | &#9745;  | Programmers |                                                           [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)                                                           |
 |  05/16   | &#9745;  | Programmers |                                                        [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)                                                        |
 |  05/18   | &#9745;  | Programmers |                                                          [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)                                                           |
+|  05/19   | &#9745;  | Programmers |                                                         [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)                                                          |
 
 [//]: # "☐ 체크 x "
 [//]: # "☑ 체크 o"
