@@ -66,6 +66,7 @@
 |  05/19   | &#9745;  | Programmers |                                                         [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)                                                          |
 |  05/30   | &#9745;  | Programmers |                                                          [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)                                                          |
 |  05/31   | &#9745;  | Programmers |                                                         [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)                                                         |
+|  06/01   | &#9745;  | Programmers |                                                          [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)                                                           |
 
 [//]: # "☐ 체크 x "
 [//]: # "☑ 체크 o"
