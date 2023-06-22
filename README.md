@@ -70,6 +70,7 @@
 |  06/08   | &#9745;  |  BaekJoon   |                                                  [나무 자르기](https://www.acmicpc.net/problem/2805), [예산](https://www.acmicpc.net/problem/2512)                                                  |
 |  06/09   | &#9745;  |  BaekJoon   |                                                                          [기타 레슨](https://www.acmicpc.net/problem/2343)                                                                          |
 |  06/10   | &#9745;  | Programmer  |                                                           [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)                                                            |
+|  06/21   | &#9745;  | Programmer  |                                                            [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)                                                            |
 
 [//]: # "☐ 체크 x "
 [//]: # "☑ 체크 o"
