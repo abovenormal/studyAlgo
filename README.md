@@ -72,6 +72,7 @@
 |  06/10   | &#9745;  | Programmer  |                                                           [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)                                                            |
 |  06/21   | &#9745;  | Programmer  |                                                            [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)                                                            |
 |  06/23   | &#9745;  | Programmer  |                                                               [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)                                                               |
+|  06/09   | &#9745;  |  BaekJoon   |                                                                          [거스름돈](https://www.acmicpc.net/problem/14916)                                                                          |
 
 [//]: # "☐ 체크 x "
 [//]: # "☑ 체크 o"
