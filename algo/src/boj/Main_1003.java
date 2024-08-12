@@ -1,40 +1,44 @@
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.io.*;
 
-public class Main3{
+public class Main {
 
     static int testCase, goal;
-    static int cnt_0, cnt_1;
+    static int[][] cnt = new int[41][2];
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         testCase = Integer.parseInt(br.readLine());
+        cnt[0][0] = 1;
+        cnt[1][1] = 1;
 
-        for(int i =0; i< testCase;i++) {
-            cnt_0 = 0;
-            cnt_1 = 0;
+        for (int i = 0; i < testCase; i++) {
             goal = Integer.parseInt(br.readLine());
 
-            dp(goal);
+            if (goal == 0 || goal == 1) {
+                System.out.println(cnt[goal][0] + " " + cnt[goal][1]);
+            } else {
+                dp(0);
 
-            System.out.println(cnt_0+" "+ cnt_1);
-
+                System.out.println(cnt[goal][0] + " " + cnt[goal][1]);
+            }
         }
     }
 
-    public static int dp(int n){
+    public static void dp(int n) {
 
-        if(n==0){
-            cnt_0++;
-            return 0;
-        }
-        else if(n==1) {
-            cnt_1++;
-            return 1;
+        if (n == 0 || n == 1) {
+            dp(n + 1);
+            return;
         }
 
-        return dp(n-1)+ dp(n-2);
+        if (n == goal + 1)
+            return;
+
+        cnt[n][0] = cnt[n - 1][0] + cnt[n - 2][0];
+        cnt[n][1] = cnt[n - 1][1] + cnt[n - 2][1];
+        dp(n + 1);
+
+
     }
 }
