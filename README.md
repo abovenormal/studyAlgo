@@ -69,13 +69,15 @@
 |  06/01   | &#9745; | Programmers |                                                       [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)                                                       |
 |  06/08   | &#9745; |  BaekJoon   |                                               [나무 자르기](https://www.acmicpc.net/problem/2805), [예산](https://www.acmicpc.net/problem/2512)                                               |
 |  06/09   | &#9745; |  BaekJoon   |                                                                     [기타 레슨](https://www.acmicpc.net/problem/2343)                                                                      |
-|  06/10   | &#9745; | Programmer  |                                                       [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)                                                        |
-|  06/21   | &#9745; | Programmer  |                                                       [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)                                                        |
-|  06/23   | &#9745; | Programmer  |                                                         [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)                                                          |
+|  06/10   | &#9745; | Programmers  |                                                       [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)                                                        |
+|  06/21   | &#9745; | Programmers  |                                                       [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)                                                        |
+|  06/23   | &#9745; | Programmers  |                                                         [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)                                                          |
 |  06/27   | &#9745; |  BaekJoon   |                                                                     [거스름돈](https://www.acmicpc.net/problem/14916)                                                                      |
-|  07/07   | &#9745; | Programmer  |                  [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) , [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)                   |
-|   2024   |   ---   |     ---     |     24년도에는 스터디 진행하며 별도로 공부한 내용 기록|
+|  07/07   | &#9745; | Programmers  |                  [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) , [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)                   |
+|   2024   |   ---   |     ---     |                                                                             24년도에는 스터디 진행하며 별도로 공부한 내용 기록                                                                              |
 |  08.12   | &#9745; |  BaekJoon   |                                                                    [피보나치 함수](https://www.acmicpc.net/problem/1003)                                                                     |
+|  08.13   | &#9745; | Programmers |                                                       [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)                                                        |
+|  08.19   | &#9745; | BaekJoon |                                                       [집합의 표현](https://www.acmicpc.net/problem/1717)                                                        |
 
 
 [//]: # "☐ 체크 x "
