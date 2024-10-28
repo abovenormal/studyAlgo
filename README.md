@@ -80,6 +80,7 @@
 |  08.19   | &#9745; | BaekJoon |                                                                     [집합의 표현](https://www.acmicpc.net/problem/1717)                                                                     |
 |  10.23   | &#9745; | BaekJoon |                [진법 변환 2](https://www.acmicpc.net/problem/11005), [세탁소 시장 동혁](https://www.acmicpc.net/problem/2720), [중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903)                 |
 |  10.24   | &#9745; | BaekJoon |                                                                     [진법 변환](https://www.acmicpc.net/problem/2745)                                                                      |
+|  10.25   | &#9745; | BaekJoon |                                                                     [배수와 약수](https://www.acmicpc.net/problem/5086)                                                                     |
 
 
 [//]: # "☐ 체크 x "
