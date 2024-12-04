@@ -85,7 +85,8 @@
 |  11.05   | &#9745; | BaekJoon, Programmers |                               [내리막길](https://www.acmicpc.net/problem/1520),[등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) : (dp)                               |
 |  11.12   | &#9745; |       BaekJoon        |                                                                   [연속합](https://www.acmicpc.net/problem/1912) : (dp)                                                                   |
 |  11.13   | &#9745; |       BaekJoon        |                                                              [알고리즘 수업 - 피보나치 수 1](https://www.acmicpc.net/problem/24416)                                                               |
-|  11.28   | &#9745; |       Programmers        |                                               [동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213), [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)                                                |
+|  11.28   | &#9745; |       Programmers        |                [동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213), [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)                |
+|  12.04   | &#9745; |       BaekJoon        |                                                                                      [그룹 단어 체커](https://www.acmicpc.net/problem/1316)                                                                                      |
 
 [//]: # "☐ 체크 x "
 [//]: # "☑ 체크 o"
